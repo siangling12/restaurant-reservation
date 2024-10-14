@@ -4,7 +4,7 @@
 
 - You have been hired as a full stack developer at Periodic Tables, a startup that is creating a reservation system for fine dining restaurants.
 - The software is used only by restaurant personnel when a customer calls to request a reservation.
-- I deployed both the server [here](https://restaurant-reservation-bwet0n73e-sianglings-projects.vercel.app/dashboard).
+- I deployed both the server [here](https://restaurant-reservation-bwet0n73e-sianglings-projects.vercel.app/dashboard).[here] (https://restaurant-reservation-1-duek.onrender.com).
 
 ## Create a Reservation
 
