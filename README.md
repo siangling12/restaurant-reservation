@@ -6,7 +6,7 @@
 
 - You have been hired as a full stack developer at **Periodic Tables**, a startup that is creating a reservation system for fine dining restaurants.
 - The software is used only by restaurant personnel when a customer calls to request a reservation.
-
+- I deployed both the server in here ,https://restaurant-reservation-bwet0n73e-sianglings-projects.vercel.app/dashboard
 ## Tools Used
 - Node.JS
 - React
