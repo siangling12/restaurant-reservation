@@ -4,7 +4,7 @@
 
 - You have been hired as a full stack developer at Periodic Tables, a startup that is creating a reservation system for fine dining restaurants.
 - The software is used only by restaurant personnel when a customer calls to request a reservation.
-- I deployed both the server [here](https://restaurant-reservation-bwet0n73e-sianglings-projects.vercel.app/dashboard).[here] (https://restaurant-reservation-1-duek.onrender.com).
+- I deployed both the server [here](https://restaurant-reservation-bwet0n73e-sianglings-projects.vercel.app/dashboard) and [here](https://restaurant-reservation-1-duek.onrender.com).
 
 ## Create a Reservation
 
@@ -26,6 +26,10 @@ The "Edit Reservation" page (/reservations/:reservation_id/edit) allows users to
 
 A "Cancel" button appears on each reservation card when the status is "booked." Clicking it prompts the user to confirm the cancellation. Upon confirmation, a PUT request updates the reservation status to "Cancelled" and removes the "Edit" and "Seat" buttons from the card.
 
+## Test Result on My System
+
+![Alt text](https://github.com/siangling12/restaurant-reservation/blob/main/Screenshot%20.png)
+
 ## Tools Used
 
 - Node.js
@@ -38,3 +42,5 @@ A "Cancel" button appears on each reservation card when the status is "booked." 
 - HTML5
 - CSS
 - Git
+
+
