@@ -15,6 +15,11 @@ const app = express();
 app.use(cors());
 app.use(express.json());
 
+// Add a root route ("/") to avoid "Path not found" error
+app.get("/", (req, res) => {
+  res.json({ message: "Welcome to the Restaurant Reservation API" });
+});
+
 app.use("/reservations", reservationsRouter);
 app.use("/tables", tablesRouter);
 
